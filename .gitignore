@@ -1,0 +1,5 @@
+output.mkv
+/ignore
+.DS_Store
+*/.DS_Store
+geckodriver.log
